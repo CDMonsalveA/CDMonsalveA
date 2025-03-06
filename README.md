@@ -2,14 +2,15 @@
 
 ## What I do
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
+
 ## 🔧 Technologies & Tools
 
 ### Top Languages
 
 ## 📈 GitHub Stats
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=CDMonsalveA.CDMonsalveA)
-
+![Visitors]()
 <!--
 **CDMonsalveA/CDMonsalveA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
