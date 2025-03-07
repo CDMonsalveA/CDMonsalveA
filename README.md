@@ -4,6 +4,8 @@ Industrial Engineer
 
 Data Science Enthusiast
 
+<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NoY2pxYzg0amc3aG4wbnh4dWMxaWNmczU3azhjdHkwNzY0ZjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif -->
+
 ## What I do
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
