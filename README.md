@@ -1,6 +1,6 @@
 # Hi, I'm Cristian Monsalve 👋
 
-Industrial Engineer 
+Industrial Engineer
 <!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F3ZHdxcXd6cTFpZGk5NWxoNTljcnQ5eTdpbXVvazl4b203Z3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d3hGuic6x6e5mASmKR/giphy.gif -->
 
 Data Science Enthusiast
@@ -29,6 +29,7 @@ Language, Intermedio
  -->
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -43,6 +44,7 @@ Language, Intermedio
 ![EES](https://img.shields.io/badge/-EES-00599C?style=flat-square&logo=EES&logoColor=white)
 
 ### Data Science
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -58,10 +60,17 @@ Language, Intermedio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDMonsalveA&layout=compact)
 
-
 ## 📈 GitHub Stats
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDMonsalveA&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CDMonsalveA&show_icons=true)
+
+Note: This README was built using the following resources:
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Shields.io](https://shields.io/)
+- [Gifhy](https://giphy.com/)
+
 <!--
 **CDMonsalveA/CDMonsalveA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
