@@ -1,5 +1,9 @@
 # Hi, I'm Cristian Monsalve 👋
 
+Industrial Engineer
+
+Data Science Enthusiast
+
 ## What I do
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
