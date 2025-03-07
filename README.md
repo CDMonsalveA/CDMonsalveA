@@ -55,6 +55,7 @@ Language, Intermedio
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white)
+![Pulp](https://img.shields.io/badge/-Pulp-00599C?style=flat-square&logo=Pulp&logoColor=white)
 
 ### Top Languages
 
