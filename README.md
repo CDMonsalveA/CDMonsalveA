@@ -1,6 +1,7 @@
 # Hi, I'm Cristian Monsalve 👋
 
-Industrial Engineer
+Industrial Engineer 
+<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F3ZHdxcXd6cTFpZGk5NWxoNTljcnQ5eTdpbXVvazl4b203Z3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d3hGuic6x6e5mASmKR/giphy.gif -->
 
 Data Science Enthusiast
 
