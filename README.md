@@ -56,6 +56,9 @@ Language, Intermedio
 
 ### Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDMonsalveA&layout=compact)
+
+
 ## 📈 GitHub Stats
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDMonsalveA&show_icons=true)
