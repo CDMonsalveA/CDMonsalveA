@@ -9,6 +9,12 @@ Data Science Enthusiast
 
 ## What I do
 
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 📉 Machine Learning
+- 📚 Data Science
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
 
 ## 🔧 Technologies & Tools
@@ -71,6 +77,8 @@ Note: This README was built using the following resources:
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [Shields.io](https://shields.io/)
 - [Gifhy](https://giphy.com/)
+
+
 
 <!--
 **CDMonsalveA/CDMonsalveA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
