@@ -32,21 +32,6 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
 
 ## 🔧 Technologies & Tools
-<!-- 
-•	Python, Avanzado
-•	SQL, Avanzado
-•	HTML, Intermedio
-•	CSS, Intermedio
-•	JavaScript, Básico
-•	Wolfram 
-Language, Intermedio
-•	R, Intermedio
-•	MATLAB, Intermedio
-•	C++, Básico
-•	C#, Básico
-•	Maple, Intermedio
-•	EES, Intermedio
- -->
 
 ### Programming Languages
 
