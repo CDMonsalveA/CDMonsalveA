@@ -1,6 +1,6 @@
 # Hi, I'm Cristian Monsalve 👋
 
-Industrial Engineer 
+Industrial Engineer
 <!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F3ZHdxcXd6cTFpZGk5NWxoNTljcnQ5eTdpbXVvazl4b203Z3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d3hGuic6x6e5mASmKR/giphy.gif -->
 
 Data Science Enthusiast
@@ -22,6 +22,17 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 - 📦 Logistics and Supply Chain
 - 🎯 Operations Research
 
+## 🔭 I’m currently working on
+
+
+
+## 📚 Projects
+
+## 🌱 I’m currently learning
+
+- 🐍 Python
+- ☁️ AWS
+- 🐳 Docker
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
 
@@ -87,6 +98,7 @@ Note: This README was built using the following resources:
 - [Gifhy](https://giphy.com/)
 
 ## 📫 Contact Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cdmonsalvea/)
 
 <!--
