@@ -17,11 +17,13 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 - 📦 Logistics and Supply Chain
 - 🎯 Operations Research
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
+
 ## 🔭 I’m currently working on
 
 ## 📚 Academic Research
 
-- Bachelor's Degree in Industrial Engineering Monograph: []
+- Bachelor's Degree in Industrial Engineering Monograph: [Diseño metodológico para integración de investigación de operaciones e inteligencia artificial: apoyo para modelos de localización-asignación en logística alimentaria](http://hdl.handle.net/11349/92955)
 
 ## 🌱 I’m currently learning
 
@@ -29,7 +31,7 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 - ☁️ AWS
 - 🐳 Docker
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
+
 
 ## 🔧 Technologies & Tools
 
