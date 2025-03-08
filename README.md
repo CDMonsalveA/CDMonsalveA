@@ -13,6 +13,11 @@ Data Science Enthusiast
 - 📈 Data Visualization
 - 📉 Machine Learning
 - 📚 Data Science
+- 📝 Data Engineering
+- 📌 Business Intelligence
+- 📑 Process Optimization
+- 📦 Logistics and Supply Chain
+- 🎯 Operations Research
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)
