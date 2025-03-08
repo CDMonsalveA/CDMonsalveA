@@ -1,11 +1,6 @@
-# Hi, I'm Cristian Monsalve 👋
+# Hi, I'm Cristian 👋
 
-Industrial Engineer
-<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F3ZHdxcXd6cTFpZGk5NWxoNTljcnQ5eTdpbXVvazl4b203Z3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d3hGuic6x6e5mASmKR/giphy.gif -->
-
-Data Science Enthusiast
-
-<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NoY2pxYzg0amc3aG4wbnh4dWMxaWNmczU3azhjdHkwNzY0ZjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif -->
+Industrial Engineer | Data Analyst | Data Scientist
 
 Industrial Engineer, interested in the implementation of digital solutions with automation, artificial intelligence, data analysis and decision making.
 With knowledge in photography, 3D modeling, graphic design, editing, audiovisual production, instructed in web development, data science and logistics. With skills for teamwork, goal fulfillment, punctuality and assertive communication. And experience in the British real estate market.
@@ -24,9 +19,9 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ## 🔭 I’m currently working on
 
+## 📚 Academic Research
 
-
-## 📚 Projects
+- Bachelor's Degree in Industrial Engineering Monograph: []
 
 ## 🌱 I’m currently learning
 
