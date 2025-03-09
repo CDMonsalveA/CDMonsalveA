@@ -21,6 +21,10 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ## 🔭 I’m currently working on
 
+- estateSearch: A real estate search engine for the UK market. Check it out [here](https://github.com/CDMonsalveA/estateSearch).
+
+- AI_OR_Workflow: A workflow for the integration of Operations Research and Artificial Intelligence models. Check it out [here](https://github.com/CDMonsalveA/AI_OR_Workflow).
+
 ## 📚 Academic Research
 
 - Bachelor's Degree in Industrial Engineering Monograph: [Diseño metodológico para integración de investigación de operaciones e inteligencia artificial: apoyo para modelos de localización-asignación en logística alimentaria](http://hdl.handle.net/11349/92955)
