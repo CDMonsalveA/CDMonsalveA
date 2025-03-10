@@ -92,6 +92,13 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CDMonsalveA&show_icons=true)
 
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cdmonsalvea/)
+[![Chess.com](https://img.shields.io/badge/-Chess.com-FFA500?style=flat&logo=Chess.com&logoColor=white)](https://www.chess.com/member/CDMonsalveA)
+
+___
+
 Note: This README was built using the following resources:
 
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
