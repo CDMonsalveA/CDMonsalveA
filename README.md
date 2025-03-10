@@ -94,7 +94,7 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ## 📫 Contact Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://www.github
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://www.github.com/CDMonsalveA/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cdmonsalvea/)
 [![Chess.com](https://img.shields.io/badge/-Chess.com-FFA500?style=flat&logo=Chess.com&logoColor=white)](https://www.chess.com/member/CDMonsalveA)
 
