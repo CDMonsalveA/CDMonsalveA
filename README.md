@@ -1,6 +1,6 @@
 # Hi, I'm Cristian 👋
 
-Industrial Engineer | Data Analyst | Data Scientist
+Engineer | Data Analyst | Data Scientist
 
 Industrial Engineer, interested in the implementation of digital solutions with automation, artificial intelligence, data analysis and decision making.
 With knowledge in photography, 3D modeling, graphic design, editing, audiovisual production, instructed in web development, data science and logistics. With skills for teamwork, goal fulfillment, punctuality and assertive communication. And experience in the British real estate market.
