@@ -106,11 +106,6 @@ Note: This README was built using the following resources:
 - [Shields.io](https://shields.io/)
 - [Gifhy](https://giphy.com/)
 
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cdmonsalvea/)
-[![Chess.com](https://img.shields.io/badge/-Chess.com-FFA500?style=flat&logo=Chess.com&logoColor=white)](https://www.chess.com/member/CDMonsalveA)
-
 <!--
 **CDMonsalveA/CDMonsalveA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
