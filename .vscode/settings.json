@@ -1,0 +1,23 @@
+{
+    // Editor settings
+    "editor.tabSize": 4,
+    "editor.rulers": [
+        60,
+        80,
+        120
+    ],
+    // Python Configuration
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "black-formatter.args": [
+        "--line-length",
+        "80"
+    ],
+}
