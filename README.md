@@ -39,18 +39,18 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
-![Wolfram Language](https://img.shields.io/badge/-Wolfram%20Language-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
-![Maple](https://img.shields.io/badge/-Maple-00599C?style=flat-square&logo=Maple&logoColor=white)
-![EES](https://img.shields.io/badge/-EES-00599C?style=flat-square&logo=EES&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Wolfram Language](https://img.shields.io/badge/-Wolfram%20Language-DD1100?style=flat-square&logo=Wolfram&logoColor=white)](https://www.wolfram.com/language/)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Maple](https://img.shields.io/badge/-Maple-00599C?style=flat-square&logo=Maple&logoColor=white)](https://www.maplesoft.com/products/maple/)
+[![EES](https://img.shields.io/badge/-EES-00599C?style=flat-square&logo=EES&logoColor=white)](https://www.fchart.com/ees/)
 
 ### Data Science
 
