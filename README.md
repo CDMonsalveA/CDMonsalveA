@@ -54,17 +54,23 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ### Data Science
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-00599C?style=flat-square&logo=Seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white)
-![Pulp](https://img.shields.io/badge/-Pulp-00599C?style=flat-square&logo=Pulp&logoColor=white)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)](https://www.scipy.org/)
+[![Statsmodels](https://img.shields.io/badge/-Statsmodels-00599C?style=flat-square&logo=Statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)
+[![Scrapy](https://img.shields.io/badge/-Scrapy-00A3E0?style=flat-square&logo=Scrapy&logoColor=white)](https://scrapy.org/)
+[![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-00599C?style=flat-square&logo=BeautifulSoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-00599C?style=flat-square&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)](https://plotly.com/)
+[![Dash](https://img.shields.io/badge/-Dash-3F4F75?style=flat-square&logo=Dash&logoColor=white)](https://dash.plotly.com/)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white)](https://powerbi.microsoft.com/)
+[![Pulp](https://img.shields.io/badge/-Pulp-00599C?style=flat-square&logo=Pulp&logoColor=white)](https://coin-or.github.io/pulp/)
 
 ### Other Tools
 
