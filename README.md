@@ -54,6 +54,7 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 
 ### Data Science
 
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
