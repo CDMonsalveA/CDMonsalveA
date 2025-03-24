@@ -71,6 +71,7 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white)](https://powerbi.microsoft.com/)
+[![Polars](https://img.shields.io/badge/-Polars-00599C?style=flat-square&logo=Polars&logoColor=white)](https://pola.rs/)
 
 ### Other Tools
 
