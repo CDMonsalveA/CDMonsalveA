@@ -146,7 +146,7 @@ Note: This README was built using the following resources:
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [Shields.io](https://shields.io/)
-- [Gifhy](https://giphy.com/)
+- [Giphy](https://giphy.com/)
 
 <!--
 **CDMonsalveA/CDMonsalveA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
