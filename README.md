@@ -59,6 +59,7 @@ With knowledge in photography, 3D modeling, graphic design, editing, audiovisual
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)](https://www.scipy.org/)
 [![Statsmodels](https://img.shields.io/badge/-Statsmodels-00599C?style=flat-square&logo=Statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)
 [![Scrapy](https://img.shields.io/badge/-Scrapy-00A3E0?style=flat-square&logo=Scrapy&logoColor=white)](https://scrapy.org/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org/)
 [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-00599C?style=flat-square&logo=BeautifulSoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
