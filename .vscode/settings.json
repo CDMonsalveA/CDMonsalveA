@@ -7,6 +7,16 @@
         120
     ],
     // Python Configuration
+    "[python]": {
+        // black-formatter
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.formatOnPaste": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always"
+        },
+    },
     "python.testing.unittestArgs": [
         "-v",
         "-s",
@@ -20,4 +30,9 @@
         "--line-length",
         "80"
     ],
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "python.analysis.typeCheckingMode": "strict",
 }
