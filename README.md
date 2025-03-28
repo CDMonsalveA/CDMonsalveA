@@ -2,8 +2,7 @@
 
 Engineer | Data Analyst | Data Scientist | Supply Chain | Operations Research | Data Mining
 
-Industrial Engineer, interested in the implementation of digital solutions with automation, artificial intelligence, data analysis and decision making.
-With knowledge in photography, 3D modeling, graphic design, editing, audiovisual production, instructed in web development, data science and logistics. With skills for teamwork, goal fulfillment, punctuality and assertive communication. And experience in the British real estate market.
+I'm an Industrial Engineer and Data Scientist with a passion for Operations Research, Automation, and AI-driven Decision-Making. With hands-on experience in Machine Learning, Deep Learning, and Big Data, I specialize in building scalable data pipelines, predictive models, and optimization algorithms for real-world problems.
 
 ## What I do
 
