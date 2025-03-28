@@ -24,6 +24,10 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 - AI_OR_Workflow: A workflow for the integration of Operations Research and Artificial Intelligence models. Check it out [here](https://github.com/CDMonsalveA/AI_OR_Workflow).
 
+- [rafaelcenter.com](rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional
+
+- [home-professionals.co.uk](home-professionals.co.uk): Web page for HOME-PROFESSIONALS LTD
+
 ## 📚 Academic Research
 
 - Bachelor's Degree in Industrial Engineering Monograph: [Diseño metodológico para integración de investigación de operaciones e inteligencia artificial: apoyo para modelos de localización-asignación en logística alimentaria](http://hdl.handle.net/11349/92955)
