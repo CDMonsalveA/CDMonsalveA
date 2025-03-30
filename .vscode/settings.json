@@ -1,4 +1,16 @@
 {
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "editor.experimentalEditContextEnabled": true,
+    "editor.inlineCompletionsAccessibilityVerbose": true,
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "editor.stickyTabStops": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "notebook.stickyScroll.enabled": true,
+    "git.autofetch": true,
     // Editor settings
     "editor.tabSize": 4,
     "editor.rulers": [
