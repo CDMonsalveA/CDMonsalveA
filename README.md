@@ -22,9 +22,9 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 ## 🔭 I’m currently working on
 
-- estateSearch: A real estate search engine for the UK market. Check it out [here](https://github.com/CDMonsalveA/estateSearch).
+- [estateSearch](https://github.com/CDMonsalveA/estateSearch): A real estate search engine for the real estate market.
 
-- AI_OR_Workflow: A workflow for the integration of Operations Research and Artificial Intelligence models. Check it out [here](https://github.com/CDMonsalveA/AI_OR_Workflow).
+- [AI_OR_Workflow](https://github.com/CDMonsalveA/AI_OR_Workflow): A workflow for the integration of Operations Research and Artificial Intelligence models. 
 
 - [rafaelcenter.com](rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional
 
