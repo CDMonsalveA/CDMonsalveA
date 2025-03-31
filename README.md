@@ -1,24 +1,16 @@
-# Hi, I'm Cristian 👋
+# Hi, I'm Cristian Monsalve 👋
 
 Engineer | Data Analyst | Data Scientist | Supply Chain | Operations Research | Data Mining
 
 I'm an Industrial Engineer and Data Scientist with a passion for Operations Research, Automation, and AI-driven Decision-Making. With hands-on experience in Machine Learning, Deep Learning, and Big Data, I specialize in building scalable data pipelines, predictive models, and optimization algorithms for real-world problems.
 
-<!-- Open to work on opensource -->
-
 ## What I do
 
 - 📊 Data Analysis
 - 📈 Data Visualization
-- 📉 Machine Learning
 - 📚 Data Science
-- 📝 Data Engineering
-- 📌 Business Intelligence
-- 📑 Process Optimization
 - 📦 Logistics and Supply Chain
 - 🎯 Operations Research
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)](https://www.github.com/CDMonsalveA/)
 
 ## 🔭 I’m currently working on
 
@@ -26,9 +18,9 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 - [AI_OR_Workflow](https://github.com/CDMonsalveA/AI_OR_Workflow): A workflow for the integration of Operations Research and Artificial Intelligence models. 
 
-- [rafaelcenter.com](rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional
+- [rafaelcenter.com](rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional.
 
-- [home-professionals.co.uk](home-professionals.co.uk): Web page for HOME-PROFESSIONALS LTD
+- [home-professionals.co.uk](home-professionals.co.uk): Web page for HOME-PROFESSIONALS LTD.
 
 ## 📚 Academic Research
 
@@ -36,9 +28,9 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 ## 🌱 I’m currently learning
 
-- 🐍 Python
 - ☁️ AWS
 - 🐳 Docker
+- 🔠 Pydantic
 
 ## 🔧 Technologies & Tools
 
@@ -122,13 +114,9 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 [![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=Google-Workspace&logoColor=white)](https://workspace.google.com/)
 
-### Top Languages
+## 🔥 Github Streak
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDMonsalveA&layout=compact)](https://www.github.com/CDMonsalveA/)
-
-## 📈 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CDMonsalveA&show_icons=true)](https://www.github.com/CDMonsalveA/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)](https://www.github.com/CDMonsalveA/)
 
 ## 📫 Contact Me
 
