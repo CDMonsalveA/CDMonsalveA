@@ -47,4 +47,6 @@
         "black"
     ],
     "python.analysis.typeCheckingMode": "standard",
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
 }
