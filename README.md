@@ -16,11 +16,11 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 - [estateSearch](https://github.com/CDMonsalveA/estateSearch): A real estate search engine for the real estate market.
 
-- [AI_OR_Workflow](https://github.com/CDMonsalveA/AI_OR_Workflow): A workflow for the integration of Operations Research and Artificial Intelligence models. 
+- [AI_OR_Workflow](https://github.com/CDMonsalveA/AI_OR_Workflow): A workflow for the integration of Operations Research and Artificial Intelligence models.
 
-- [rafaelcenter.com](rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional.
+- [rafaelcenter.com](https://rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional.
 
-- [home-professionals.co.uk](home-professionals.co.uk): Web page for HOME-PROFESSIONALS LTD.
+- [home-professionals.co.uk](https://home-professionals.co.uk): Web page for HOME-PROFESSIONALS LTD.
 
 ## 📚 Academic Research
 
