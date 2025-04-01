@@ -28,9 +28,11 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 ## 🌱 I’m currently learning
 
-- ☁️ AWS
-- 🐳 Docker
-- 🔠 Pydantic
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-00599C?style=flat-square&logo=Pydantic&logoColor=white)](https://pydantic-docs.helpmanual.io/)
 
 ## 🔧 Technologies & Tools
 
