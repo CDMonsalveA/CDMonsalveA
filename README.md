@@ -4,6 +4,8 @@ Engineer | Data Analyst | Data Scientist | Supply Chain | Operations Research | 
 
 I'm an Industrial Engineer and Data Scientist with a passion for Operations Research, Automation, and AI-driven Decision-Making. With hands-on experience in Machine Learning, Deep Learning, and Big Data, I specialize in building scalable data pipelines, predictive models, and optimization algorithms for real-world problems.
 
+- Currently looking for a full-time position in Data Science, Data Analysis, Logistics, or Operations Research.
+
 ## What I do
 
 - 📊 Data Analysis
