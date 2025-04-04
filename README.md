@@ -141,4 +141,3 @@ Note: This README was built using the following resources:
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [Shields.io](https://shields.io/)
-- [Giphy](https://giphy.com/)
