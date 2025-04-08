@@ -123,6 +123,8 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 ## 🔥 Github Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CDMonsalveA)](https://www.github.com/CDMonsalveA/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDMonsalveA&show_icons=true&theme=radical)](https://www.github.com/CDMonsalveA/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDMonsalveA&layout=compact&theme=radical)](https://www.github.com/CDMonsalveA/)
 
 ## 📫 Contact Me
 
