@@ -10,7 +10,6 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 - 📚 Data Science
 - 📊 Data Analysis
-- 📈 Data Visualization
 - 🏢 Business Intelligence
 - 🤖 Machine Learning
 - 📦 Logistics and Supply Chain
