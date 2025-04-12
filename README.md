@@ -1,6 +1,6 @@
 # Hi, I'm Cristian Monsalve 👋
 
-Engineer | Data Analyst | Data Scientist | Supply Chain | Operations Research | Data Mining
+Engineer | Data Analyst | Data Scientist | Supply Chain | Operations Research | Data Mining | Machine Learning | Deep Learning | Big Data | Python | R | SQL | HTML | CSS | JavaScript | C++ | C# | Wolfram Language | MATLAB | Maple | EES
 
 I'm an Industrial Engineer and Data Scientist with a passion for Operations Research, Automation, and AI-driven Decision-Making. With hands-on experience in Machine Learning, Deep Learning, and Big Data, I specialize in building scalable data pipelines, predictive models, and optimization algorithms for real-world problems.
 
