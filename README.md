@@ -137,7 +137,7 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 - [![Python for Data Analysis](https://img.shields.io/badge/-Python%20for%20Data%20Analysis-00599C?style=flat-square&logo=Python&logoColor=white)](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
 - [![Python Data Science Handbook](https://img.shields.io/badge/-Python%20Data%20Science%20Handbook-00599C?style=flat-square&logo=Python&logoColor=white)](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://img.shields.io/badge/-Hands--On%20Machine%20Learning%20with%20Scikit--Learn,%20Keras,%20and%20TensorFlow-00599C?style=flat-square&logo=Python&logoColor=white)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://img.shields.io/badge/-Hands--On%20Machine%20Learning%20with%20Scikit--Learn,%20Keras,%20and%20TensorFlow-00599C?style=flat-square&logo=Python&logoColor=white)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 ___
 
