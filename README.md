@@ -1,14 +1,15 @@
 # Hi, I'm Cristian Monsalve 👋
 
-Engineer | Data Analyst | Data Scientist | Supply Chain | Operations Research | Data Mining | Machine Learning | Deep Learning | Big Data | Python | R | SQL | HTML | CSS | JavaScript | C++ | C# | Wolfram Language | MATLAB | Maple | EES
+Engineer | Data Analyst | Data Scientist | Data Engineer | Supply Chain | Operations Research | Data Mining | Machine Learning | Deep Learning | Big Data | Python | R | SQL | HTML | CSS | JavaScript | C++ | C# | Wolfram Language | MATLAB | Maple | EES
 
 I'm an Industrial Engineer and Data Scientist with a passion for Operations Research, Automation, and AI-driven Decision-Making. With hands-on experience in Machine Learning, Deep Learning, and Big Data, I specialize in building scalable data pipelines, predictive models, and optimization algorithms for real-world problems.
 
-- Currently looking for a full-time position in Data Science, Data Analysis, Logistics, or Operations Research.
+- Currently looking for a full-time position in Data Science, Data Engineering, Data Analysis, Logistics, or Operations Research.
 
 ## What I do
 
 - 📚 Data Science
+- 🛠️ Data Engineering 
 - 📊 Data Analysis
 - 🏢 Business Intelligence
 - 🤖 Machine Learning
@@ -21,7 +22,7 @@ I'm an Industrial Engineer and Data Scientist with a passion for Operations Rese
 
 - [AI_OR_Workflow](https://github.com/CDMonsalveA/AI_OR_Workflow): A workflow for the integration of Operations Research and Artificial Intelligence models.
 
-- [rafaelcenter.com](https://rafaelcenter.com): Web page for Rafael - Centro de Contención Emocional.
+- [rafaelcenter.com](https://rafaelcenter.org): Web page for Rafael - Centro de Contención Emocional.
 
 - [home-professionals.co.uk](https://home-professionals.co.uk): Web page for HOME-PROFESSIONALS LTD.
 
