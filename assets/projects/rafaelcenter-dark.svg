@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="214" viewBox="0 0 560 214" role="img" aria-labelledby="title desc">
+<title id="title">rafaelcenter.org</title>
+<desc id="desc">Website, brand, BI &amp; marketing automation for an emotional-support center, built with 12 people. Tags: WordPress, Analytics, Automation, Branding.</desc>
+<style>
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="sans">
+  <rect x="1" y="1" width="558" height="212" rx="14" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(26 26) scale(.72)"><g fill="none" stroke="#9198a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="16" r="12"/><ellipse cx="16" cy="16" rx="5" ry="12"/><path d="M4 16h24M6 9.5h20M6 22.5h20"/></g></g>
+  <text x="58" y="47" font-size="25" font-weight="700" fill="#4493f8">rafaelcenter.org</text>
+  <rect x="474" y="26" width="58" height="26" rx="13" fill="none" stroke="#30363d"/>
+  <text x="503" y="44" text-anchor="middle" font-size="14" font-weight="600" fill="#9198a1">Live</text>
+  <text x="28" y="90" font-size="18" fill="#9198a1">Website, brand, BI &amp; marketing automation for an</text><text x="28" y="116" font-size="18" fill="#9198a1">emotional-support center, built with 12 people.</text>
+  <rect x="28" y="134" width="107" height="30" rx="15" fill="#4493f8" fill-opacity=".12"/><text x="81" y="154" text-anchor="middle" font-size="16" fill="#4493f8">WordPress</text><rect x="143" y="134" width="107" height="30" rx="15" fill="#4493f8" fill-opacity=".12"/><text x="196" y="154" text-anchor="middle" font-size="16" fill="#4493f8">Analytics</text><rect x="257" y="134" width="116" height="30" rx="15" fill="#4493f8" fill-opacity=".12"/><text x="315" y="154" text-anchor="middle" font-size="16" fill="#4493f8">Automation</text><rect x="381" y="134" width="98" height="30" rx="15" fill="#4493f8" fill-opacity=".12"/><text x="430" y="154" text-anchor="middle" font-size="16" fill="#4493f8">Branding</text>
+  <g transform="translate(27 181) scale(.44)"><g fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="16" r="12"/><ellipse cx="16" cy="16" rx="5" ry="12"/><path d="M4 16h24M6 9.5h20M6 22.5h20"/></g></g>
+  <text x="48" y="194" font-size="16" fill="#9198a1">Website <tspan fill="#6e7681">· 2024 – 2025</tspan></text>
+</g>
+</svg>
